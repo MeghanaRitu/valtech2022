@@ -1,4 +1,4 @@
 package Devops;
-public class Arithmetic {
+public interface Arithmetic {
 
 }
